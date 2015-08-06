@@ -1,0 +1,13 @@
+uid, email
+123, huyaoyang001@gmail.com
+345, sjtu.yangdiyi@gmail.com
+124, diyiy@cs.cmu.edu 
+1256, diyiy@andrew.cmu.edu 
+76, 592052314@qq.com
+78, lymeeting@gmail.com 
+89, yul1@andrew.cmu.edu 
+80, 617966025@qq.com
+34, yangdiyi@apex.sjtu.edu.cn 
+67, cprose@cs.cmu.edu
+90, carolynprose@gmail.com
+91, hyejuj@cs.cmu.edu

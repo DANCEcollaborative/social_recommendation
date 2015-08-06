@@ -1,0 +1,4 @@
+http://www.cs.cmu.edu/~diyiy/images/photo1/profile_1a.jpg
+http://www.cs.cmu.edu/~diyiy/images/photo1/profile_2a.jpg
+http://www.cs.cmu.edu/~diyiy/images/photo1/profile_3a.jpg
+http://www.cs.cmu.edu/~diyiy/images/photo1/profile_4a.jpg
